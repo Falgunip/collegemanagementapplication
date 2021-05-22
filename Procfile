@@ -1,0 +1,1 @@
+web: gunicorn collegemanagementsystem.wsgi --log-file -
